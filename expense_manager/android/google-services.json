@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204183700582",
+    "project_id": "expensemanager-96970",
+    "storage_bucket": "expensemanager-96970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204183700582:android:be53dd124defc3dc2e59a7",
+        "android_client_info": {
+          "package_name": "com.gcp.expense_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204183700582-jhao4ir5pi69np9jo70hi5o14blu2br5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtCnLq8Nq0aDdFc5gYi-Ck8ZChZpEEb88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204183700582-jhao4ir5pi69np9jo70hi5o14blu2br5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
